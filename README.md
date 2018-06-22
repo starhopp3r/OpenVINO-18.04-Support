@@ -1,6 +1,6 @@
 # OpenVINO-18.04-Support
 
-Unofficial support scripts (hacks to be precise) modified by yours truly and @jameshi16
+Unofficial scripts (hacks to be precise) modified by yours truly and @jameshi16 that allow OpenVINO™ to run on Ubuntu 18.04
 
 ## How to use it
 
