@@ -11,3 +11,5 @@ To test if you have sucessfully installed and configured OpenVINO on your host, 
 # Contributors
 
 Nikhil Raghavendra (@nikhilraghava) and James Lim (@jameshi16).
+
+Copyright (c) 2018 Intel Corporation. Licensed under the Apache License, Version 2.0.
