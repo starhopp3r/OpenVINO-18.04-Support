@@ -4,7 +4,7 @@ As of June 2018, OpenVINO™ only supports Ubuntu 16.04.3 LTS (64 bit), Windows 
 
 ## How to use it
 
-Replace and run the shell script `/opt/intel/computer_vision_sdk_2018.1.265/deployment_tools/inference_engine/share/InferenceEngineConfig.cmake` with the `InferenceEngineConfig.cmake` provided in this repository.
+Replace the make file `/opt/intel/computer_vision_sdk_2018.1.265/deployment_tools/inference_engine/share/InferenceEngineConfig.cmake` with the `InferenceEngineConfig.cmake` provided in this repository.
 
 To test if you have sucessfully installed and configured OpenVINO on your host, replace and run the `demo_squeezenet_download_convert_run.sh` with the one provided in this repository at this location: `/opt/intel/computer_vision_sdk_2018.1.265/deployment_tools/demo`.
 
