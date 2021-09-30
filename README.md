@@ -1,6 +1,6 @@
 # Unofficial Ubuntu 18.04 Support for OpenVINO™
 
-As of June 2018, OpenVINO™ only supports Ubuntu 16.04.3 LTS (64 bit), Windows 10 (64 bit) and CentOS 7.4 (64 bit). James Lim (@jameshi16) and I (@nikhilraghava) have modified the `InferenceEngineConfig.cmake` to allow OpenVINO™ to run on Ubuntu 18.04 without any issues.
+As of June 2018, OpenVINO™ only supports Ubuntu 16.04.3 LTS (64 bit), Windows 10 (64 bit) and CentOS 7.4 (64 bit). James Lim (@jameshi16) and I (@starhopp3r) have modified the `InferenceEngineConfig.cmake` to allow OpenVINO™ to run on Ubuntu 18.04 without any issues.
 
 ## How to use it
 
@@ -10,6 +10,6 @@ To test if you have sucessfully installed and configured OpenVINO on your host, 
 
 # Contributors
 
-Nikhil Raghavendra (@nikhilraghava) and James Lim (@jameshi16).
+Nikhil Raghavendra (@starhopp3r) and James Lim (@jameshi16).
 
 Copyright © Intel Corporation. Licensed under the Apache License, Version 2.0.
